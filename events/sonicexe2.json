@@ -3,7 +3,12 @@
   "custom":{
     "new":"sonicexepixel",
     "newbg":"",
-    "newbf":"sonicbfpixl",
-    "timing":"56"
+    "newbf":"sonicbfpixel",
+    "timing":"56",
+    "adownscalex":"1",
+    "adownscaley":"1",
+    "pdownscalex":"1",
+    "pdownscaley":"1",
+    "ending":"30"
   }
 }
