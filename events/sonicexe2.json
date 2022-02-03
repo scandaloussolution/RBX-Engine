@@ -1,14 +1,1 @@
-{
- "song": {
-  "custom":{
-    "new":"sonicexepixel",
-    "newbg":"",
-    "newbf":"sonicbfpixel",
-    "timing":"56",
-    "adownscalex":"1",
-    "adownscaley":"1",
-    "pdownscalex":"1",
-    "pdownscaley":"1",
-    "ending":"30"
-  }
-}
+{"song":{"custom":{"adownscaley":"1","pdownscalex":"1","adownscalex":"1","ending":"30","pdownscaley":"1","timing":"56","newbf":"sonicbfpixel","newbg":"","new":"sonicexepixel"}}
