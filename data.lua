@@ -19,11 +19,11 @@
     fg = {
       ["8735653832"] = {
         zindex = 2,
-        size = UDim2.new(0.6,0,0.4,0)
+        size = UDim2.new(0.9,0,0.9,0)
       },
       ["8735650785"] = {
         zindex = 1,
-        size = UDim2.new(0.6,0,0.4,0)
+        size = UDim2.new(0.9,0,0.9,0)
       }
     },
     aShake = 10
