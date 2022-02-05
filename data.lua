@@ -20,12 +20,12 @@
       ["8735653832"] = {
         zindex = 2,
         size = UDim2.new(1,0,.8,0),
-        pos = UDim2.new(0.5,0,0.5,0)
+        pos = UDim2.new(0.5,0,0.65,0)
       },
       ["8735650785"] = {
         zindex = 1,
         size = UDim2.new(1,0,.8,0),
-        pos = UDim2.new(0.5,0,0.5,0)
+        pos = UDim2.new(0.5,0,0.65,0)
       }
     },
     aShake = 10
